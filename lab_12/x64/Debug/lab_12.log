@@ -1,0 +1,3 @@
+﻿  lab_12.cpp
+D:\for_rudn\технология_программирования\lab_12\lab_12.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_12.vcxproj -> D:\for_rudn\технология_программирования\lab_12\x64\Debug\lab_12.exe
